@@ -1,0 +1,2373 @@
+{
+    "rates": [
+        {
+            "id": "BTC_USD_2026-01-09T04:02:50.002126+00:00",
+            "from_currency": "BTC",
+            "to_currency": "USD",
+            "rate": 91103,
+            "timestamp": "2026-01-09T04:02:50.002126+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "btc",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "ETH_USD_2026-01-09T04:02:50.002166+00:00",
+            "from_currency": "ETH",
+            "to_currency": "USD",
+            "rate": 3115.87,
+            "timestamp": "2026-01-09T04:02:50.002166+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "eth",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "SOL_USD_2026-01-09T04:02:50.002178+00:00",
+            "from_currency": "SOL",
+            "to_currency": "USD",
+            "rate": 140.65,
+            "timestamp": "2026-01-09T04:02:50.002178+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "sol",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_USD_2026-01-09T04:02:50.002188+00:00",
+            "from_currency": "USD",
+            "to_currency": "USD",
+            "rate": 1,
+            "timestamp": "2026-01-09T04:02:50.002188+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_AED_2026-01-09T04:02:50.002198+00:00",
+            "from_currency": "USD",
+            "to_currency": "AED",
+            "rate": 3.6725,
+            "timestamp": "2026-01-09T04:02:50.002198+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_AFN_2026-01-09T04:02:50.002207+00:00",
+            "from_currency": "USD",
+            "to_currency": "AFN",
+            "rate": 66.0626,
+            "timestamp": "2026-01-09T04:02:50.002207+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_ALL_2026-01-09T04:02:50.002215+00:00",
+            "from_currency": "USD",
+            "to_currency": "ALL",
+            "rate": 82.7127,
+            "timestamp": "2026-01-09T04:02:50.002215+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_AMD_2026-01-09T04:02:50.002224+00:00",
+            "from_currency": "USD",
+            "to_currency": "AMD",
+            "rate": 381.5539,
+            "timestamp": "2026-01-09T04:02:50.002224+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_ANG_2026-01-09T04:02:50.002232+00:00",
+            "from_currency": "USD",
+            "to_currency": "ANG",
+            "rate": 1.79,
+            "timestamp": "2026-01-09T04:02:50.002232+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_AOA_2026-01-09T04:02:50.002249+00:00",
+            "from_currency": "USD",
+            "to_currency": "AOA",
+            "rate": 919.3256,
+            "timestamp": "2026-01-09T04:02:50.002249+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_ARS_2026-01-09T04:02:50.002258+00:00",
+            "from_currency": "USD",
+            "to_currency": "ARS",
+            "rate": 1452.25,
+            "timestamp": "2026-01-09T04:02:50.002258+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_AUD_2026-01-09T04:02:50.002266+00:00",
+            "from_currency": "USD",
+            "to_currency": "AUD",
+            "rate": 1.493,
+            "timestamp": "2026-01-09T04:02:50.002266+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_AWG_2026-01-09T04:02:50.002275+00:00",
+            "from_currency": "USD",
+            "to_currency": "AWG",
+            "rate": 1.79,
+            "timestamp": "2026-01-09T04:02:50.002275+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_AZN_2026-01-09T04:02:50.002283+00:00",
+            "from_currency": "USD",
+            "to_currency": "AZN",
+            "rate": 1.7002,
+            "timestamp": "2026-01-09T04:02:50.002283+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_BAM_2026-01-09T04:02:50.002290+00:00",
+            "from_currency": "USD",
+            "to_currency": "BAM",
+            "rate": 1.6769,
+            "timestamp": "2026-01-09T04:02:50.002290+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_BBD_2026-01-09T04:02:50.002311+00:00",
+            "from_currency": "USD",
+            "to_currency": "BBD",
+            "rate": 2.0,
+            "timestamp": "2026-01-09T04:02:50.002311+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_BDT_2026-01-09T04:02:50.002319+00:00",
+            "from_currency": "USD",
+            "to_currency": "BDT",
+            "rate": 122.2245,
+            "timestamp": "2026-01-09T04:02:50.002319+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_BGN_2026-01-09T04:02:50.002327+00:00",
+            "from_currency": "USD",
+            "to_currency": "BGN",
+            "rate": 1.6215,
+            "timestamp": "2026-01-09T04:02:50.002327+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_BHD_2026-01-09T04:02:50.002335+00:00",
+            "from_currency": "USD",
+            "to_currency": "BHD",
+            "rate": 0.376,
+            "timestamp": "2026-01-09T04:02:50.002335+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_BIF_2026-01-09T04:02:50.002343+00:00",
+            "from_currency": "USD",
+            "to_currency": "BIF",
+            "rate": 2965.9382,
+            "timestamp": "2026-01-09T04:02:50.002343+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_BMD_2026-01-09T04:02:50.002357+00:00",
+            "from_currency": "USD",
+            "to_currency": "BMD",
+            "rate": 1.0,
+            "timestamp": "2026-01-09T04:02:50.002357+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_BND_2026-01-09T04:02:50.002365+00:00",
+            "from_currency": "USD",
+            "to_currency": "BND",
+            "rate": 1.2846,
+            "timestamp": "2026-01-09T04:02:50.002365+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_BOB_2026-01-09T04:02:50.002373+00:00",
+            "from_currency": "USD",
+            "to_currency": "BOB",
+            "rate": 6.9298,
+            "timestamp": "2026-01-09T04:02:50.002373+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_BRL_2026-01-09T04:02:50.002381+00:00",
+            "from_currency": "USD",
+            "to_currency": "BRL",
+            "rate": 5.3866,
+            "timestamp": "2026-01-09T04:02:50.002381+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_BSD_2026-01-09T04:02:50.002389+00:00",
+            "from_currency": "USD",
+            "to_currency": "BSD",
+            "rate": 1.0,
+            "timestamp": "2026-01-09T04:02:50.002389+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_BTN_2026-01-09T04:02:50.002397+00:00",
+            "from_currency": "USD",
+            "to_currency": "BTN",
+            "rate": 89.9859,
+            "timestamp": "2026-01-09T04:02:50.002397+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_BWP_2026-01-09T04:02:50.002405+00:00",
+            "from_currency": "USD",
+            "to_currency": "BWP",
+            "rate": 13.8524,
+            "timestamp": "2026-01-09T04:02:50.002405+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_BYN_2026-01-09T04:02:50.002413+00:00",
+            "from_currency": "USD",
+            "to_currency": "BYN",
+            "rate": 2.9493,
+            "timestamp": "2026-01-09T04:02:50.002413+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_BZD_2026-01-09T04:02:50.002428+00:00",
+            "from_currency": "USD",
+            "to_currency": "BZD",
+            "rate": 2.0,
+            "timestamp": "2026-01-09T04:02:50.002428+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_CAD_2026-01-09T04:02:50.002437+00:00",
+            "from_currency": "USD",
+            "to_currency": "CAD",
+            "rate": 1.3862,
+            "timestamp": "2026-01-09T04:02:50.002437+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_CDF_2026-01-09T04:02:50.002445+00:00",
+            "from_currency": "USD",
+            "to_currency": "CDF",
+            "rate": 2255.9074,
+            "timestamp": "2026-01-09T04:02:50.002445+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_CHF_2026-01-09T04:02:50.002453+00:00",
+            "from_currency": "USD",
+            "to_currency": "CHF",
+            "rate": 0.7985,
+            "timestamp": "2026-01-09T04:02:50.002453+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_CLF_2026-01-09T04:02:50.002461+00:00",
+            "from_currency": "USD",
+            "to_currency": "CLF",
+            "rate": 0.02266,
+            "timestamp": "2026-01-09T04:02:50.002461+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_CLP_2026-01-09T04:02:50.002469+00:00",
+            "from_currency": "USD",
+            "to_currency": "CLP",
+            "rate": 895.8391,
+            "timestamp": "2026-01-09T04:02:50.002469+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_CNH_2026-01-09T04:02:50.002477+00:00",
+            "from_currency": "USD",
+            "to_currency": "CNH",
+            "rate": 6.9825,
+            "timestamp": "2026-01-09T04:02:50.002477+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_CNY_2026-01-09T04:02:50.002485+00:00",
+            "from_currency": "USD",
+            "to_currency": "CNY",
+            "rate": 6.9961,
+            "timestamp": "2026-01-09T04:02:50.002485+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_COP_2026-01-09T04:02:50.002493+00:00",
+            "from_currency": "USD",
+            "to_currency": "COP",
+            "rate": 3737.2763,
+            "timestamp": "2026-01-09T04:02:50.002493+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_CRC_2026-01-09T04:02:50.002501+00:00",
+            "from_currency": "USD",
+            "to_currency": "CRC",
+            "rate": 497.3484,
+            "timestamp": "2026-01-09T04:02:50.002501+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_CUP_2026-01-09T04:02:50.002508+00:00",
+            "from_currency": "USD",
+            "to_currency": "CUP",
+            "rate": 24.0,
+            "timestamp": "2026-01-09T04:02:50.002508+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_CVE_2026-01-09T04:02:50.002516+00:00",
+            "from_currency": "USD",
+            "to_currency": "CVE",
+            "rate": 94.5418,
+            "timestamp": "2026-01-09T04:02:50.002516+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_CZK_2026-01-09T04:02:50.002524+00:00",
+            "from_currency": "USD",
+            "to_currency": "CZK",
+            "rate": 20.7958,
+            "timestamp": "2026-01-09T04:02:50.002524+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_DJF_2026-01-09T04:02:50.002533+00:00",
+            "from_currency": "USD",
+            "to_currency": "DJF",
+            "rate": 177.721,
+            "timestamp": "2026-01-09T04:02:50.002533+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_DKK_2026-01-09T04:02:50.002541+00:00",
+            "from_currency": "USD",
+            "to_currency": "DKK",
+            "rate": 6.3975,
+            "timestamp": "2026-01-09T04:02:50.002541+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_DOP_2026-01-09T04:02:50.002549+00:00",
+            "from_currency": "USD",
+            "to_currency": "DOP",
+            "rate": 63.4722,
+            "timestamp": "2026-01-09T04:02:50.002549+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_DZD_2026-01-09T04:02:50.002557+00:00",
+            "from_currency": "USD",
+            "to_currency": "DZD",
+            "rate": 129.9684,
+            "timestamp": "2026-01-09T04:02:50.002557+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_EGP_2026-01-09T04:02:50.002565+00:00",
+            "from_currency": "USD",
+            "to_currency": "EGP",
+            "rate": 47.2791,
+            "timestamp": "2026-01-09T04:02:50.002565+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_ERN_2026-01-09T04:02:50.002573+00:00",
+            "from_currency": "USD",
+            "to_currency": "ERN",
+            "rate": 15.0,
+            "timestamp": "2026-01-09T04:02:50.002573+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_ETB_2026-01-09T04:02:50.002581+00:00",
+            "from_currency": "USD",
+            "to_currency": "ETB",
+            "rate": 154.6725,
+            "timestamp": "2026-01-09T04:02:50.002581+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_EUR_2026-01-09T04:02:50.002597+00:00",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.8574,
+            "timestamp": "2026-01-09T04:02:50.002597+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_FJD_2026-01-09T04:02:50.002607+00:00",
+            "from_currency": "USD",
+            "to_currency": "FJD",
+            "rate": 2.2717,
+            "timestamp": "2026-01-09T04:02:50.002607+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_FKP_2026-01-09T04:02:50.002615+00:00",
+            "from_currency": "USD",
+            "to_currency": "FKP",
+            "rate": 0.7442,
+            "timestamp": "2026-01-09T04:02:50.002615+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_FOK_2026-01-09T04:02:50.002623+00:00",
+            "from_currency": "USD",
+            "to_currency": "FOK",
+            "rate": 6.3974,
+            "timestamp": "2026-01-09T04:02:50.002623+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_GBP_2026-01-09T04:02:50.002631+00:00",
+            "from_currency": "USD",
+            "to_currency": "GBP",
+            "rate": 0.7442,
+            "timestamp": "2026-01-09T04:02:50.002631+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_GEL_2026-01-09T04:02:50.002640+00:00",
+            "from_currency": "USD",
+            "to_currency": "GEL",
+            "rate": 2.6958,
+            "timestamp": "2026-01-09T04:02:50.002640+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_GGP_2026-01-09T04:02:50.002648+00:00",
+            "from_currency": "USD",
+            "to_currency": "GGP",
+            "rate": 0.7442,
+            "timestamp": "2026-01-09T04:02:50.002648+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_GHS_2026-01-09T04:02:50.002656+00:00",
+            "from_currency": "USD",
+            "to_currency": "GHS",
+            "rate": 10.7184,
+            "timestamp": "2026-01-09T04:02:50.002656+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_GIP_2026-01-09T04:02:50.002663+00:00",
+            "from_currency": "USD",
+            "to_currency": "GIP",
+            "rate": 0.7442,
+            "timestamp": "2026-01-09T04:02:50.002663+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_GMD_2026-01-09T04:02:50.002672+00:00",
+            "from_currency": "USD",
+            "to_currency": "GMD",
+            "rate": 73.8638,
+            "timestamp": "2026-01-09T04:02:50.002672+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_GNF_2026-01-09T04:02:50.002688+00:00",
+            "from_currency": "USD",
+            "to_currency": "GNF",
+            "rate": 8745.743,
+            "timestamp": "2026-01-09T04:02:50.002688+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_GTQ_2026-01-09T04:02:50.002698+00:00",
+            "from_currency": "USD",
+            "to_currency": "GTQ",
+            "rate": 7.6662,
+            "timestamp": "2026-01-09T04:02:50.002698+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_GYD_2026-01-09T04:02:50.002706+00:00",
+            "from_currency": "USD",
+            "to_currency": "GYD",
+            "rate": 209.1508,
+            "timestamp": "2026-01-09T04:02:50.002706+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_HKD_2026-01-09T04:02:50.002715+00:00",
+            "from_currency": "USD",
+            "to_currency": "HKD",
+            "rate": 7.7925,
+            "timestamp": "2026-01-09T04:02:50.002715+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_HNL_2026-01-09T04:02:50.002728+00:00",
+            "from_currency": "USD",
+            "to_currency": "HNL",
+            "rate": 26.3783,
+            "timestamp": "2026-01-09T04:02:50.002728+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_HRK_2026-01-09T04:02:50.002737+00:00",
+            "from_currency": "USD",
+            "to_currency": "HRK",
+            "rate": 6.4601,
+            "timestamp": "2026-01-09T04:02:50.002737+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_HTG_2026-01-09T04:02:50.002750+00:00",
+            "from_currency": "USD",
+            "to_currency": "HTG",
+            "rate": 130.9335,
+            "timestamp": "2026-01-09T04:02:50.002750+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_HUF_2026-01-09T04:02:50.002759+00:00",
+            "from_currency": "USD",
+            "to_currency": "HUF",
+            "rate": 329.97,
+            "timestamp": "2026-01-09T04:02:50.002759+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_IDR_2026-01-09T04:02:50.002767+00:00",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 16792.3713,
+            "timestamp": "2026-01-09T04:02:50.002767+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_ILS_2026-01-09T04:02:50.002780+00:00",
+            "from_currency": "USD",
+            "to_currency": "ILS",
+            "rate": 3.1703,
+            "timestamp": "2026-01-09T04:02:50.002780+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_IMP_2026-01-09T04:02:50.002789+00:00",
+            "from_currency": "USD",
+            "to_currency": "IMP",
+            "rate": 0.7442,
+            "timestamp": "2026-01-09T04:02:50.002789+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_INR_2026-01-09T04:02:50.002797+00:00",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 89.986,
+            "timestamp": "2026-01-09T04:02:50.002797+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_IQD_2026-01-09T04:02:50.002805+00:00",
+            "from_currency": "USD",
+            "to_currency": "IQD",
+            "rate": 1310.5923,
+            "timestamp": "2026-01-09T04:02:50.002805+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_IRR_2026-01-09T04:02:50.002812+00:00",
+            "from_currency": "USD",
+            "to_currency": "IRR",
+            "rate": 42159.4235,
+            "timestamp": "2026-01-09T04:02:50.002812+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_ISK_2026-01-09T04:02:50.002820+00:00",
+            "from_currency": "USD",
+            "to_currency": "ISK",
+            "rate": 126.0726,
+            "timestamp": "2026-01-09T04:02:50.002820+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_JEP_2026-01-09T04:02:50.002828+00:00",
+            "from_currency": "USD",
+            "to_currency": "JEP",
+            "rate": 0.7442,
+            "timestamp": "2026-01-09T04:02:50.002828+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_JMD_2026-01-09T04:02:50.002836+00:00",
+            "from_currency": "USD",
+            "to_currency": "JMD",
+            "rate": 158.393,
+            "timestamp": "2026-01-09T04:02:50.002836+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_JOD_2026-01-09T04:02:50.002844+00:00",
+            "from_currency": "USD",
+            "to_currency": "JOD",
+            "rate": 0.709,
+            "timestamp": "2026-01-09T04:02:50.002844+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_JPY_2026-01-09T04:02:50.002851+00:00",
+            "from_currency": "USD",
+            "to_currency": "JPY",
+            "rate": 156.8338,
+            "timestamp": "2026-01-09T04:02:50.002851+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_KES_2026-01-09T04:02:50.002861+00:00",
+            "from_currency": "USD",
+            "to_currency": "KES",
+            "rate": 128.9535,
+            "timestamp": "2026-01-09T04:02:50.002861+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_KGS_2026-01-09T04:02:50.002877+00:00",
+            "from_currency": "USD",
+            "to_currency": "KGS",
+            "rate": 87.4054,
+            "timestamp": "2026-01-09T04:02:50.002877+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_KHR_2026-01-09T04:02:50.002887+00:00",
+            "from_currency": "USD",
+            "to_currency": "KHR",
+            "rate": 4018.6101,
+            "timestamp": "2026-01-09T04:02:50.002887+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_KID_2026-01-09T04:02:50.002895+00:00",
+            "from_currency": "USD",
+            "to_currency": "KID",
+            "rate": 1.4929,
+            "timestamp": "2026-01-09T04:02:50.002895+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_KMF_2026-01-09T04:02:50.002903+00:00",
+            "from_currency": "USD",
+            "to_currency": "KMF",
+            "rate": 421.8158,
+            "timestamp": "2026-01-09T04:02:50.002903+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_KRW_2026-01-09T04:02:50.002922+00:00",
+            "from_currency": "USD",
+            "to_currency": "KRW",
+            "rate": 1451.6426,
+            "timestamp": "2026-01-09T04:02:50.002922+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_KWD_2026-01-09T04:02:50.002931+00:00",
+            "from_currency": "USD",
+            "to_currency": "KWD",
+            "rate": 0.3069,
+            "timestamp": "2026-01-09T04:02:50.002931+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_KYD_2026-01-09T04:02:50.002939+00:00",
+            "from_currency": "USD",
+            "to_currency": "KYD",
+            "rate": 0.8333,
+            "timestamp": "2026-01-09T04:02:50.002939+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_KZT_2026-01-09T04:02:50.002947+00:00",
+            "from_currency": "USD",
+            "to_currency": "KZT",
+            "rate": 509.7772,
+            "timestamp": "2026-01-09T04:02:50.002947+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_LAK_2026-01-09T04:02:50.002955+00:00",
+            "from_currency": "USD",
+            "to_currency": "LAK",
+            "rate": 21663.791,
+            "timestamp": "2026-01-09T04:02:50.002955+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_LBP_2026-01-09T04:02:50.002969+00:00",
+            "from_currency": "USD",
+            "to_currency": "LBP",
+            "rate": 89500.0,
+            "timestamp": "2026-01-09T04:02:50.002969+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_LKR_2026-01-09T04:02:50.002984+00:00",
+            "from_currency": "USD",
+            "to_currency": "LKR",
+            "rate": 309.8533,
+            "timestamp": "2026-01-09T04:02:50.002984+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_LRD_2026-01-09T04:02:50.002993+00:00",
+            "from_currency": "USD",
+            "to_currency": "LRD",
+            "rate": 179.1717,
+            "timestamp": "2026-01-09T04:02:50.002993+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_LSL_2026-01-09T04:02:50.003002+00:00",
+            "from_currency": "USD",
+            "to_currency": "LSL",
+            "rate": 16.5188,
+            "timestamp": "2026-01-09T04:02:50.003002+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_LYD_2026-01-09T04:02:50.003010+00:00",
+            "from_currency": "USD",
+            "to_currency": "LYD",
+            "rate": 5.4154,
+            "timestamp": "2026-01-09T04:02:50.003010+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_MAD_2026-01-09T04:02:50.003018+00:00",
+            "from_currency": "USD",
+            "to_currency": "MAD",
+            "rate": 9.216,
+            "timestamp": "2026-01-09T04:02:50.003018+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_MDL_2026-01-09T04:02:50.003027+00:00",
+            "from_currency": "USD",
+            "to_currency": "MDL",
+            "rate": 16.7725,
+            "timestamp": "2026-01-09T04:02:50.003027+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_MGA_2026-01-09T04:02:50.003035+00:00",
+            "from_currency": "USD",
+            "to_currency": "MGA",
+            "rate": 4598.0836,
+            "timestamp": "2026-01-09T04:02:50.003035+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_MKD_2026-01-09T04:02:50.003043+00:00",
+            "from_currency": "USD",
+            "to_currency": "MKD",
+            "rate": 52.6743,
+            "timestamp": "2026-01-09T04:02:50.003043+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_MMK_2026-01-09T04:02:50.003051+00:00",
+            "from_currency": "USD",
+            "to_currency": "MMK",
+            "rate": 2102.3369,
+            "timestamp": "2026-01-09T04:02:50.003051+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_MNT_2026-01-09T04:02:50.003059+00:00",
+            "from_currency": "USD",
+            "to_currency": "MNT",
+            "rate": 3546.7651,
+            "timestamp": "2026-01-09T04:02:50.003059+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_MOP_2026-01-09T04:02:50.003067+00:00",
+            "from_currency": "USD",
+            "to_currency": "MOP",
+            "rate": 8.0265,
+            "timestamp": "2026-01-09T04:02:50.003067+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_MRU_2026-01-09T04:02:50.003075+00:00",
+            "from_currency": "USD",
+            "to_currency": "MRU",
+            "rate": 39.9697,
+            "timestamp": "2026-01-09T04:02:50.003075+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_MUR_2026-01-09T04:02:50.003083+00:00",
+            "from_currency": "USD",
+            "to_currency": "MUR",
+            "rate": 46.5055,
+            "timestamp": "2026-01-09T04:02:50.003083+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_MVR_2026-01-09T04:02:50.003091+00:00",
+            "from_currency": "USD",
+            "to_currency": "MVR",
+            "rate": 15.4345,
+            "timestamp": "2026-01-09T04:02:50.003091+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_MWK_2026-01-09T04:02:50.003099+00:00",
+            "from_currency": "USD",
+            "to_currency": "MWK",
+            "rate": 1741.9385,
+            "timestamp": "2026-01-09T04:02:50.003099+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_MXN_2026-01-09T04:02:50.003112+00:00",
+            "from_currency": "USD",
+            "to_currency": "MXN",
+            "rate": 17.9756,
+            "timestamp": "2026-01-09T04:02:50.003112+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_MYR_2026-01-09T04:02:50.003121+00:00",
+            "from_currency": "USD",
+            "to_currency": "MYR",
+            "rate": 4.062,
+            "timestamp": "2026-01-09T04:02:50.003121+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_MZN_2026-01-09T04:02:50.003134+00:00",
+            "from_currency": "USD",
+            "to_currency": "MZN",
+            "rate": 63.9027,
+            "timestamp": "2026-01-09T04:02:50.003134+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_NAD_2026-01-09T04:02:50.003149+00:00",
+            "from_currency": "USD",
+            "to_currency": "NAD",
+            "rate": 16.5188,
+            "timestamp": "2026-01-09T04:02:50.003149+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_NGN_2026-01-09T04:02:50.003158+00:00",
+            "from_currency": "USD",
+            "to_currency": "NGN",
+            "rate": 1421.5086,
+            "timestamp": "2026-01-09T04:02:50.003158+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_NIO_2026-01-09T04:02:50.003167+00:00",
+            "from_currency": "USD",
+            "to_currency": "NIO",
+            "rate": 36.808,
+            "timestamp": "2026-01-09T04:02:50.003167+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_NOK_2026-01-09T04:02:50.003184+00:00",
+            "from_currency": "USD",
+            "to_currency": "NOK",
+            "rate": 10.0879,
+            "timestamp": "2026-01-09T04:02:50.003184+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_NPR_2026-01-09T04:02:50.003194+00:00",
+            "from_currency": "USD",
+            "to_currency": "NPR",
+            "rate": 143.9774,
+            "timestamp": "2026-01-09T04:02:50.003194+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_NZD_2026-01-09T04:02:50.003202+00:00",
+            "from_currency": "USD",
+            "to_currency": "NZD",
+            "rate": 1.7393,
+            "timestamp": "2026-01-09T04:02:50.003202+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_OMR_2026-01-09T04:02:50.003210+00:00",
+            "from_currency": "USD",
+            "to_currency": "OMR",
+            "rate": 0.3845,
+            "timestamp": "2026-01-09T04:02:50.003210+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_PAB_2026-01-09T04:02:50.003218+00:00",
+            "from_currency": "USD",
+            "to_currency": "PAB",
+            "rate": 1.0,
+            "timestamp": "2026-01-09T04:02:50.003218+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_PEN_2026-01-09T04:02:50.003226+00:00",
+            "from_currency": "USD",
+            "to_currency": "PEN",
+            "rate": 3.3631,
+            "timestamp": "2026-01-09T04:02:50.003226+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_PGK_2026-01-09T04:02:50.003234+00:00",
+            "from_currency": "USD",
+            "to_currency": "PGK",
+            "rate": 4.2668,
+            "timestamp": "2026-01-09T04:02:50.003234+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_PHP_2026-01-09T04:02:50.003256+00:00",
+            "from_currency": "USD",
+            "to_currency": "PHP",
+            "rate": 59.1829,
+            "timestamp": "2026-01-09T04:02:50.003256+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_PKR_2026-01-09T04:02:50.003266+00:00",
+            "from_currency": "USD",
+            "to_currency": "PKR",
+            "rate": 281.7748,
+            "timestamp": "2026-01-09T04:02:50.003266+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_PLN_2026-01-09T04:02:50.003274+00:00",
+            "from_currency": "USD",
+            "to_currency": "PLN",
+            "rate": 3.6095,
+            "timestamp": "2026-01-09T04:02:50.003274+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_PYG_2026-01-09T04:02:50.003282+00:00",
+            "from_currency": "USD",
+            "to_currency": "PYG",
+            "rate": 6675.1329,
+            "timestamp": "2026-01-09T04:02:50.003282+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_QAR_2026-01-09T04:02:50.003302+00:00",
+            "from_currency": "USD",
+            "to_currency": "QAR",
+            "rate": 3.64,
+            "timestamp": "2026-01-09T04:02:50.003302+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_RON_2026-01-09T04:02:50.003313+00:00",
+            "from_currency": "USD",
+            "to_currency": "RON",
+            "rate": 4.3592,
+            "timestamp": "2026-01-09T04:02:50.003313+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_RSD_2026-01-09T04:02:50.003321+00:00",
+            "from_currency": "USD",
+            "to_currency": "RSD",
+            "rate": 100.4671,
+            "timestamp": "2026-01-09T04:02:50.003321+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_RUB_2026-01-09T04:02:50.003330+00:00",
+            "from_currency": "USD",
+            "to_currency": "RUB",
+            "rate": 80.1993,
+            "timestamp": "2026-01-09T04:02:50.003330+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_RWF_2026-01-09T04:02:50.003354+00:00",
+            "from_currency": "USD",
+            "to_currency": "RWF",
+            "rate": 1459.5853,
+            "timestamp": "2026-01-09T04:02:50.003354+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_SAR_2026-01-09T04:02:50.003363+00:00",
+            "from_currency": "USD",
+            "to_currency": "SAR",
+            "rate": 3.75,
+            "timestamp": "2026-01-09T04:02:50.003363+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_SBD_2026-01-09T04:02:50.003379+00:00",
+            "from_currency": "USD",
+            "to_currency": "SBD",
+            "rate": 8.0245,
+            "timestamp": "2026-01-09T04:02:50.003379+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_SCR_2026-01-09T04:02:50.003388+00:00",
+            "from_currency": "USD",
+            "to_currency": "SCR",
+            "rate": 14.0537,
+            "timestamp": "2026-01-09T04:02:50.003388+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_SDG_2026-01-09T04:02:50.003396+00:00",
+            "from_currency": "USD",
+            "to_currency": "SDG",
+            "rate": 511.5103,
+            "timestamp": "2026-01-09T04:02:50.003396+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_SEK_2026-01-09T04:02:50.003405+00:00",
+            "from_currency": "USD",
+            "to_currency": "SEK",
+            "rate": 9.221,
+            "timestamp": "2026-01-09T04:02:50.003405+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_SGD_2026-01-09T04:02:50.003413+00:00",
+            "from_currency": "USD",
+            "to_currency": "SGD",
+            "rate": 1.2846,
+            "timestamp": "2026-01-09T04:02:50.003413+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_SHP_2026-01-09T04:02:50.003421+00:00",
+            "from_currency": "USD",
+            "to_currency": "SHP",
+            "rate": 0.7442,
+            "timestamp": "2026-01-09T04:02:50.003421+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_SLE_2026-01-09T04:02:50.003429+00:00",
+            "from_currency": "USD",
+            "to_currency": "SLE",
+            "rate": 23.8366,
+            "timestamp": "2026-01-09T04:02:50.003429+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_SLL_2026-01-09T04:02:50.003437+00:00",
+            "from_currency": "USD",
+            "to_currency": "SLL",
+            "rate": 23836.6113,
+            "timestamp": "2026-01-09T04:02:50.003437+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_SOS_2026-01-09T04:02:50.003444+00:00",
+            "from_currency": "USD",
+            "to_currency": "SOS",
+            "rate": 570.1928,
+            "timestamp": "2026-01-09T04:02:50.003444+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_SRD_2026-01-09T04:02:50.003452+00:00",
+            "from_currency": "USD",
+            "to_currency": "SRD",
+            "rate": 38.1861,
+            "timestamp": "2026-01-09T04:02:50.003452+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_SSP_2026-01-09T04:02:50.003459+00:00",
+            "from_currency": "USD",
+            "to_currency": "SSP",
+            "rate": 4662.0526,
+            "timestamp": "2026-01-09T04:02:50.003459+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_STN_2026-01-09T04:02:50.003467+00:00",
+            "from_currency": "USD",
+            "to_currency": "STN",
+            "rate": 21.0064,
+            "timestamp": "2026-01-09T04:02:50.003467+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_SYP_2026-01-09T04:02:50.003475+00:00",
+            "from_currency": "USD",
+            "to_currency": "SYP",
+            "rate": 113.0128,
+            "timestamp": "2026-01-09T04:02:50.003475+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_SZL_2026-01-09T04:02:50.003483+00:00",
+            "from_currency": "USD",
+            "to_currency": "SZL",
+            "rate": 16.5188,
+            "timestamp": "2026-01-09T04:02:50.003483+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_THB_2026-01-09T04:02:50.003496+00:00",
+            "from_currency": "USD",
+            "to_currency": "THB",
+            "rate": 31.4909,
+            "timestamp": "2026-01-09T04:02:50.003496+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_TJS_2026-01-09T04:02:50.003505+00:00",
+            "from_currency": "USD",
+            "to_currency": "TJS",
+            "rate": 9.2363,
+            "timestamp": "2026-01-09T04:02:50.003505+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_TMT_2026-01-09T04:02:50.003513+00:00",
+            "from_currency": "USD",
+            "to_currency": "TMT",
+            "rate": 3.4996,
+            "timestamp": "2026-01-09T04:02:50.003513+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_TND_2026-01-09T04:02:50.003520+00:00",
+            "from_currency": "USD",
+            "to_currency": "TND",
+            "rate": 2.8926,
+            "timestamp": "2026-01-09T04:02:50.003520+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_TOP_2026-01-09T04:02:50.003528+00:00",
+            "from_currency": "USD",
+            "to_currency": "TOP",
+            "rate": 2.3938,
+            "timestamp": "2026-01-09T04:02:50.003528+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_TRY_2026-01-09T04:02:50.003555+00:00",
+            "from_currency": "USD",
+            "to_currency": "TRY",
+            "rate": 43.1024,
+            "timestamp": "2026-01-09T04:02:50.003555+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_TTD_2026-01-09T04:02:50.003565+00:00",
+            "from_currency": "USD",
+            "to_currency": "TTD",
+            "rate": 6.7747,
+            "timestamp": "2026-01-09T04:02:50.003565+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_TVD_2026-01-09T04:02:50.003573+00:00",
+            "from_currency": "USD",
+            "to_currency": "TVD",
+            "rate": 1.4929,
+            "timestamp": "2026-01-09T04:02:50.003573+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_TWD_2026-01-09T04:02:50.003587+00:00",
+            "from_currency": "USD",
+            "to_currency": "TWD",
+            "rate": 31.5824,
+            "timestamp": "2026-01-09T04:02:50.003587+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_TZS_2026-01-09T04:02:50.003596+00:00",
+            "from_currency": "USD",
+            "to_currency": "TZS",
+            "rate": 2462.5609,
+            "timestamp": "2026-01-09T04:02:50.003596+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_UAH_2026-01-09T04:02:50.003604+00:00",
+            "from_currency": "USD",
+            "to_currency": "UAH",
+            "rate": 43.0169,
+            "timestamp": "2026-01-09T04:02:50.003604+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_UGX_2026-01-09T04:02:50.003612+00:00",
+            "from_currency": "USD",
+            "to_currency": "UGX",
+            "rate": 3596.5422,
+            "timestamp": "2026-01-09T04:02:50.003612+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_UYU_2026-01-09T04:02:50.003620+00:00",
+            "from_currency": "USD",
+            "to_currency": "UYU",
+            "rate": 38.9723,
+            "timestamp": "2026-01-09T04:02:50.003620+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_UZS_2026-01-09T04:02:50.003628+00:00",
+            "from_currency": "USD",
+            "to_currency": "UZS",
+            "rate": 12105.6575,
+            "timestamp": "2026-01-09T04:02:50.003628+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_VES_2026-01-09T04:02:50.003636+00:00",
+            "from_currency": "USD",
+            "to_currency": "VES",
+            "rate": 325.3894,
+            "timestamp": "2026-01-09T04:02:50.003636+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_VND_2026-01-09T04:02:50.003644+00:00",
+            "from_currency": "USD",
+            "to_currency": "VND",
+            "rate": 26174.3514,
+            "timestamp": "2026-01-09T04:02:50.003644+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_VUV_2026-01-09T04:02:50.003652+00:00",
+            "from_currency": "USD",
+            "to_currency": "VUV",
+            "rate": 120.4693,
+            "timestamp": "2026-01-09T04:02:50.003652+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_WST_2026-01-09T04:02:50.003660+00:00",
+            "from_currency": "USD",
+            "to_currency": "WST",
+            "rate": 2.7442,
+            "timestamp": "2026-01-09T04:02:50.003660+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_XAF_2026-01-09T04:02:50.003669+00:00",
+            "from_currency": "USD",
+            "to_currency": "XAF",
+            "rate": 562.4211,
+            "timestamp": "2026-01-09T04:02:50.003669+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_XCD_2026-01-09T04:02:50.003677+00:00",
+            "from_currency": "USD",
+            "to_currency": "XCD",
+            "rate": 2.7,
+            "timestamp": "2026-01-09T04:02:50.003677+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_XCG_2026-01-09T04:02:50.003684+00:00",
+            "from_currency": "USD",
+            "to_currency": "XCG",
+            "rate": 1.79,
+            "timestamp": "2026-01-09T04:02:50.003684+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_XDR_2026-01-09T04:02:50.003692+00:00",
+            "from_currency": "USD",
+            "to_currency": "XDR",
+            "rate": 0.7295,
+            "timestamp": "2026-01-09T04:02:50.003692+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_XOF_2026-01-09T04:02:50.003700+00:00",
+            "from_currency": "USD",
+            "to_currency": "XOF",
+            "rate": 562.4211,
+            "timestamp": "2026-01-09T04:02:50.003700+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_XPF_2026-01-09T04:02:50.003708+00:00",
+            "from_currency": "USD",
+            "to_currency": "XPF",
+            "rate": 102.3159,
+            "timestamp": "2026-01-09T04:02:50.003708+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_YER_2026-01-09T04:02:50.003716+00:00",
+            "from_currency": "USD",
+            "to_currency": "YER",
+            "rate": 238.447,
+            "timestamp": "2026-01-09T04:02:50.003716+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_ZAR_2026-01-09T04:02:50.003729+00:00",
+            "from_currency": "USD",
+            "to_currency": "ZAR",
+            "rate": 16.5189,
+            "timestamp": "2026-01-09T04:02:50.003729+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_ZMW_2026-01-09T04:02:50.003743+00:00",
+            "from_currency": "USD",
+            "to_currency": "ZMW",
+            "rate": 20.0291,
+            "timestamp": "2026-01-09T04:02:50.003743+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_ZWG_2026-01-09T04:02:50.003757+00:00",
+            "from_currency": "USD",
+            "to_currency": "ZWG",
+            "rate": 25.7204,
+            "timestamp": "2026-01-09T04:02:50.003757+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        },
+        {
+            "id": "USD_ZWL_2026-01-09T04:02:50.003766+00:00",
+            "from_currency": "USD",
+            "to_currency": "ZWL",
+            "rate": 25.7204,
+            "timestamp": "2026-01-09T04:02:50.003766+00:00",
+            "source": "ExchangeRateApiClient",
+            "meta": {
+                "raw_id": "usd",
+                "request_ms": 0,
+                "status_code": 200,
+                "etag": ""
+            }
+        }
+    ],
+    "metadata": {
+        "last_refresh": "2026-01-09T04:02:50.003774+00:00Z"
+    }
+}

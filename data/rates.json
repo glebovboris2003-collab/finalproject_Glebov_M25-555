@@ -1,0 +1,850 @@
+{
+    "pairs": {
+        "BTC_USD": {
+            "rate": 91103,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "ETH_USD": {
+            "rate": 3115.87,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "SOL_USD": {
+            "rate": 140.65,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_USD": {
+            "rate": 1,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_AED": {
+            "rate": 3.6725,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_AFN": {
+            "rate": 66.0626,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_ALL": {
+            "rate": 82.7127,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_AMD": {
+            "rate": 381.5539,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_ANG": {
+            "rate": 1.79,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_AOA": {
+            "rate": 919.3256,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_ARS": {
+            "rate": 1452.25,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_AUD": {
+            "rate": 1.493,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_AWG": {
+            "rate": 1.79,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_AZN": {
+            "rate": 1.7002,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_BAM": {
+            "rate": 1.6769,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_BBD": {
+            "rate": 2.0,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_BDT": {
+            "rate": 122.2245,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_BGN": {
+            "rate": 1.6215,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_BHD": {
+            "rate": 0.376,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_BIF": {
+            "rate": 2965.9382,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_BMD": {
+            "rate": 1.0,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_BND": {
+            "rate": 1.2846,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_BOB": {
+            "rate": 6.9298,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_BRL": {
+            "rate": 5.3866,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_BSD": {
+            "rate": 1.0,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_BTN": {
+            "rate": 89.9859,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_BWP": {
+            "rate": 13.8524,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_BYN": {
+            "rate": 2.9493,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_BZD": {
+            "rate": 2.0,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_CAD": {
+            "rate": 1.3862,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_CDF": {
+            "rate": 2255.9074,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_CHF": {
+            "rate": 0.7985,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_CLF": {
+            "rate": 0.02266,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_CLP": {
+            "rate": 895.8391,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_CNH": {
+            "rate": 6.9825,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_CNY": {
+            "rate": 6.9961,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_COP": {
+            "rate": 3737.2763,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_CRC": {
+            "rate": 497.3484,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_CUP": {
+            "rate": 24.0,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_CVE": {
+            "rate": 94.5418,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_CZK": {
+            "rate": 20.7958,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_DJF": {
+            "rate": 177.721,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_DKK": {
+            "rate": 6.3975,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_DOP": {
+            "rate": 63.4722,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_DZD": {
+            "rate": 129.9684,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_EGP": {
+            "rate": 47.2791,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_ERN": {
+            "rate": 15.0,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_ETB": {
+            "rate": 154.6725,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_EUR": {
+            "rate": 0.8574,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_FJD": {
+            "rate": 2.2717,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_FKP": {
+            "rate": 0.7442,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_FOK": {
+            "rate": 6.3974,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_GBP": {
+            "rate": 0.7442,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_GEL": {
+            "rate": 2.6958,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_GGP": {
+            "rate": 0.7442,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_GHS": {
+            "rate": 10.7184,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_GIP": {
+            "rate": 0.7442,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_GMD": {
+            "rate": 73.8638,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_GNF": {
+            "rate": 8745.743,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_GTQ": {
+            "rate": 7.6662,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_GYD": {
+            "rate": 209.1508,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_HKD": {
+            "rate": 7.7925,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_HNL": {
+            "rate": 26.3783,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_HRK": {
+            "rate": 6.4601,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_HTG": {
+            "rate": 130.9335,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_HUF": {
+            "rate": 329.97,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_IDR": {
+            "rate": 16792.3713,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_ILS": {
+            "rate": 3.1703,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_IMP": {
+            "rate": 0.7442,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_INR": {
+            "rate": 89.986,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_IQD": {
+            "rate": 1310.5923,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_IRR": {
+            "rate": 42159.4235,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_ISK": {
+            "rate": 126.0726,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_JEP": {
+            "rate": 0.7442,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_JMD": {
+            "rate": 158.393,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_JOD": {
+            "rate": 0.709,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_JPY": {
+            "rate": 156.8338,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_KES": {
+            "rate": 128.9535,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_KGS": {
+            "rate": 87.4054,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_KHR": {
+            "rate": 4018.6101,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_KID": {
+            "rate": 1.4929,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_KMF": {
+            "rate": 421.8158,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_KRW": {
+            "rate": 1451.6426,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_KWD": {
+            "rate": 0.3069,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_KYD": {
+            "rate": 0.8333,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_KZT": {
+            "rate": 509.7772,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_LAK": {
+            "rate": 21663.791,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_LBP": {
+            "rate": 89500.0,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_LKR": {
+            "rate": 309.8533,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_LRD": {
+            "rate": 179.1717,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_LSL": {
+            "rate": 16.5188,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_LYD": {
+            "rate": 5.4154,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_MAD": {
+            "rate": 9.216,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_MDL": {
+            "rate": 16.7725,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_MGA": {
+            "rate": 4598.0836,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_MKD": {
+            "rate": 52.6743,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_MMK": {
+            "rate": 2102.3369,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_MNT": {
+            "rate": 3546.7651,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_MOP": {
+            "rate": 8.0265,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_MRU": {
+            "rate": 39.9697,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_MUR": {
+            "rate": 46.5055,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_MVR": {
+            "rate": 15.4345,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_MWK": {
+            "rate": 1741.9385,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_MXN": {
+            "rate": 17.9756,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_MYR": {
+            "rate": 4.062,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_MZN": {
+            "rate": 63.9027,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_NAD": {
+            "rate": 16.5188,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_NGN": {
+            "rate": 1421.5086,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_NIO": {
+            "rate": 36.808,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_NOK": {
+            "rate": 10.0879,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_NPR": {
+            "rate": 143.9774,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_NZD": {
+            "rate": 1.7393,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_OMR": {
+            "rate": 0.3845,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_PAB": {
+            "rate": 1.0,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_PEN": {
+            "rate": 3.3631,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_PGK": {
+            "rate": 4.2668,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_PHP": {
+            "rate": 59.1829,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_PKR": {
+            "rate": 281.7748,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_PLN": {
+            "rate": 3.6095,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_PYG": {
+            "rate": 6675.1329,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_QAR": {
+            "rate": 3.64,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_RON": {
+            "rate": 4.3592,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_RSD": {
+            "rate": 100.4671,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_RUB": {
+            "rate": 80.1993,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_RWF": {
+            "rate": 1459.5853,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_SAR": {
+            "rate": 3.75,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_SBD": {
+            "rate": 8.0245,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_SCR": {
+            "rate": 14.0537,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_SDG": {
+            "rate": 511.5103,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_SEK": {
+            "rate": 9.221,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_SGD": {
+            "rate": 1.2846,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_SHP": {
+            "rate": 0.7442,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_SLE": {
+            "rate": 23.8366,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_SLL": {
+            "rate": 23836.6113,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_SOS": {
+            "rate": 570.1928,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_SRD": {
+            "rate": 38.1861,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_SSP": {
+            "rate": 4662.0526,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_STN": {
+            "rate": 21.0064,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_SYP": {
+            "rate": 113.0128,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_SZL": {
+            "rate": 16.5188,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_THB": {
+            "rate": 31.4909,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_TJS": {
+            "rate": 9.2363,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_TMT": {
+            "rate": 3.4996,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_TND": {
+            "rate": 2.8926,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_TOP": {
+            "rate": 2.3938,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_TRY": {
+            "rate": 43.1024,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_TTD": {
+            "rate": 6.7747,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_TVD": {
+            "rate": 1.4929,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_TWD": {
+            "rate": 31.5824,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_TZS": {
+            "rate": 2462.5609,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_UAH": {
+            "rate": 43.0169,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_UGX": {
+            "rate": 3596.5422,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_UYU": {
+            "rate": 38.9723,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_UZS": {
+            "rate": 12105.6575,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_VES": {
+            "rate": 325.3894,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_VND": {
+            "rate": 26174.3514,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_VUV": {
+            "rate": 120.4693,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_WST": {
+            "rate": 2.7442,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_XAF": {
+            "rate": 562.4211,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_XCD": {
+            "rate": 2.7,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_XCG": {
+            "rate": 1.79,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_XDR": {
+            "rate": 0.7295,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_XOF": {
+            "rate": 562.4211,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_XPF": {
+            "rate": 102.3159,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_YER": {
+            "rate": 238.447,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_ZAR": {
+            "rate": 16.5189,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_ZMW": {
+            "rate": 20.0291,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_ZWG": {
+            "rate": 25.7204,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        },
+        "USD_ZWL": {
+            "rate": 25.7204,
+            "updated_at": "2026-01-09T04:02:50.003920+00:00",
+            "source": "ExchangeRateApiClient"
+        }
+    },
+    "last_refresh": "2026-01-09T04:02:50.003920+00:00"
+}
